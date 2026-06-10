@@ -24,6 +24,7 @@
 - **[vix-term-structure-plasmoid](https://github.com/chrisOTM/vix-term-structure-plasmoid)** — KDE plasmoid widget showing the current VIX cash term structure right on your desktop. *(QML)*
 
 ### 🤖 AI & Productivity
+- **[claude-usage-plasmoid](https://github.com/chrisOTM/claude-usage-plasmoid)** — KDE Plasma 6 panel widget showing Claude Code session & weekly usage limits at a glance, with a reset countdown. *(QML)*
 - **[AgentZero-Skills](https://github.com/chrisOTM/AgentZero-Skills)** — A collection of my custom skills for AgentZero. *(Python)*
 - **[obsidian-wallabag-2026](https://github.com/chrisOTM/obsidian-wallabag-2026)** — Fork of the Obsidian-Wallabag plugin to sync Wallabag items into Obsidian notes. *(TypeScript · fork)*
 
