@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/QML%20%2F%20Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="QML / Qt" />
   <img src="https://img.shields.io/badge/KDE-1D99F3?style=flat-square&logo=kde&logoColor=white" alt="KDE" />
 </p>
@@ -22,7 +21,6 @@
 
 ### 💹 Trading Infrastructure
 - **[IBKR-FlexQuery-Downloader](https://github.com/chrisOTM/IBKR-FlexQuery-Downloader)** — XML downloader for the Interactive Brokers FlexQuery service. *(Python)*
-- **[IBKR-Income-Logbook](https://github.com/chrisOTM/IBKR-Income-Logbook)** — Android app (Jetpack Compose) to evaluate IBKR FlexQuery data — closed option premiums and dividends. *(Kotlin)*
 - **[vix-term-structure-plasmoid](https://github.com/chrisOTM/vix-term-structure-plasmoid)** — KDE plasmoid widget showing the current VIX cash term structure right on your desktop. *(QML)*
 - **[spx-gamma-plasmoid](https://github.com/chrisOTM/spx-gamma-plasmoid)** — KDE Plasma 6 plasmoid showing SPX dealer gamma exposure, gamma flip level & spot price (CBOE delayed quotes). *(QML)*
 
