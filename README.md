@@ -32,7 +32,6 @@
 
 ### 🏋️ Health & Fitness
 - **[barbell-tracker-android](https://github.com/chrisOTM/barbell-tracker-android)** — Native Android app for structured barbell strength training: build plans, run guided workouts set-by-set with a rest timer, log sets & auto-suggest the next weight. Fully offline, EN/DE, Material 3. *(Kotlin)*
-- **[gratitude-reminder-app](https://github.com/chrisOTM/gratitude-reminder-app)** — Native Android app that nudges you with reminders to log what you're grateful for. *(Kotlin)*
 
 ---
 
