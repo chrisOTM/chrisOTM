@@ -30,6 +30,9 @@
 - **[AgentZero-Skills](https://github.com/chrisOTM/AgentZero-Skills)** — A collection of my custom skills for AgentZero. *(Python)*
 - **[obsidian-wallabag-2026](https://github.com/chrisOTM/obsidian-wallabag-2026)** — Fork of the Obsidian-Wallabag plugin to sync Wallabag items into Obsidian notes. *(TypeScript · fork)*
 
+### 📚 Curated Lists
+- **[best-of-github](https://github.com/chrisOTM/best-of-github)** — A curated list of the best repositories on GitHub — hand-picked, opinionated, personally tested.
+
 ### 🏋️ Health & Fitness
 - **[barbell-tracker-android](https://github.com/chrisOTM/barbell-tracker-android)** — Native Android app for structured barbell strength training: build plans, run guided workouts set-by-set with a rest timer, log sets & auto-suggest the next weight. Fully offline, EN/DE, Material 3. *(Kotlin)*
 
