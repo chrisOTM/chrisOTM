@@ -30,6 +30,9 @@
 - **[AgentZero-Skills](https://github.com/chrisOTM/AgentZero-Skills)** — A collection of my custom skills for AgentZero. *(Python)*
 - **[obsidian-wallabag-2026](https://github.com/chrisOTM/obsidian-wallabag-2026)** — Fork of the Obsidian-Wallabag plugin to sync Wallabag items into Obsidian notes. *(TypeScript · fork)*
 
+### 🐧 Linux Desktop
+- **[benq-monitor-control](https://github.com/chrisOTM/benq-monitor-control)** — Wayland tray app for the BenQ MA320U on Linux: picture modes, brightness, Low Blue Light and FloW scenarios over DDC/CI. *(Python · PySide6/QML)*
+
 ### 📚 Curated Lists
 - **[best-of-github](https://github.com/chrisOTM/best-of-github)** — A curated list of the best repositories on GitHub — hand-picked, opinionated, personally tested.
 
