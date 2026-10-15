@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/QML%20%2F%20Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="QML / Qt" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/KDE-1D99F3?style=flat-square&logo=kde&logoColor=white" alt="KDE" />
 </p>
 
@@ -27,11 +28,11 @@
 
 ### 🤖 AI & Productivity
 - **[claude-usage-plasmoid](https://github.com/chrisOTM/claude-usage-plasmoid)** — KDE Plasma 6 panel widget showing Claude Code session & weekly usage limits at a glance, with a reset countdown. *(QML)*
-- **[AgentZero-Skills](https://github.com/chrisOTM/AgentZero-Skills)** — A collection of my custom skills for AgentZero. *(Python)*
 - **[obsidian-wallabag-2026](https://github.com/chrisOTM/obsidian-wallabag-2026)** — Fork of the Obsidian-Wallabag plugin to sync Wallabag items into Obsidian notes. *(TypeScript · fork)*
 
 ### 🐧 Linux Desktop
 - **[benq-monitor-control](https://github.com/chrisOTM/benq-monitor-control)** — Wayland tray app for the BenQ MA320U on Linux: picture modes, brightness, Low Blue Light and FloW scenarios over DDC/CI. *(Python · PySide6/QML)*
+- **[thinkpad-x9-ipu7-camera-fix](https://github.com/chrisOTM/thinkpad-x9-ipu7-camera-fix)** — Fix for the ThinkPad X9-14 Gen 1 webcam (Intel IPU7, Sony IMX471) on Ubuntu 26.04 with kernel 7.0. *(C)*
 
 ### 📚 Curated Lists
 - **[best-of-github](https://github.com/chrisOTM/best-of-github)** — A curated list of the best repositories on GitHub — hand-picked, opinionated, personally tested.
