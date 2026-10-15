@@ -32,6 +32,7 @@
 
 ### 🐧 Linux Desktop
 - **[benq-monitor-control](https://github.com/chrisOTM/benq-monitor-control)** — Wayland tray app for the BenQ MA320U on Linux: picture modes, brightness, Low Blue Light and FloW scenarios over DDC/CI. *(Python · PySide6/QML)*
+- **[gnome-charge-limit](https://github.com/chrisOTM/gnome-charge-limit)** — GNOME Shell Quick Settings toggle for battery charge thresholds (60–95 %), with a pkexec helper; a workaround for GNOME Settings hiding the option on the ThinkPad X9-14 Gen 1. *(JavaScript · GNOME 48–50)*
 - **[thinkpad-x9-ipu7-camera-fix](https://github.com/chrisOTM/thinkpad-x9-ipu7-camera-fix)** — Fix for the ThinkPad X9-14 Gen 1 webcam (Intel IPU7, Sony IMX471) on Ubuntu 26.04 with kernel 7.0. *(C)*
 
 ### 📚 Curated Lists
