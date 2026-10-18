@@ -7,10 +7,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/QML%20%2F%20Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="QML / Qt" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/KDE-1D99F3?style=flat-square&logo=kde&logoColor=white" alt="KDE" />
+  <img src="https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" alt="GNOME" />
 </p>
 
 ---
@@ -33,6 +35,7 @@
 ### 🐧 Linux Desktop
 - **[benq-monitor-control](https://github.com/chrisOTM/benq-monitor-control)** — Wayland tray app for the BenQ MA320U on Linux: picture modes, brightness, Low Blue Light and FloW scenarios over DDC/CI. *(Python · PySide6/QML)*
 - **[gnome-charge-limit](https://github.com/chrisOTM/gnome-charge-limit)** — GNOME Shell Quick Settings toggle for battery charge thresholds (60–95 %), with a pkexec helper; a workaround for GNOME Settings hiding the option on the ThinkPad X9-14 Gen 1. *(JavaScript · GNOME 48–50)*
+- **[gnome-power-profile-auto](https://github.com/chrisOTM/gnome-power-profile-auto)** — GNOME Shell extension that sets the power mode per power source (one profile on AC, one on battery), applied only on plug/unplug so manual Quick Settings choices stick. *(JavaScript · GNOME 50)*
 - **[thinkpad-x9-ipu7-camera-fix](https://github.com/chrisOTM/thinkpad-x9-ipu7-camera-fix)** — Fix for the ThinkPad X9-14 Gen 1 webcam (Intel IPU7, Sony IMX471) on Ubuntu 26.04 with kernel 7.0. *(C)*
 
 ### 📚 Curated Lists
