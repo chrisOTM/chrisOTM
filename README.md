@@ -25,15 +25,16 @@
 
 ### 💹 Trading Infrastructure
 - **[IBKR-FlexQuery-Downloader](https://github.com/chrisOTM/IBKR-FlexQuery-Downloader)** — XML downloader for the Interactive Brokers FlexQuery service. *(Python)*
-- **[vix-term-structure-plasmoid](https://github.com/chrisOTM/vix-term-structure-plasmoid)** — KDE plasmoid widget showing the current VIX cash term structure right on your desktop. *(QML)*
-- **[spx-gamma-plasmoid](https://github.com/chrisOTM/spx-gamma-plasmoid)** — KDE Plasma 6 plasmoid showing SPX dealer gamma exposure, gamma flip level & spot price (CBOE delayed quotes). *(QML)*
+- **[vix-term-structure-plasmoid](https://github.com/chrisOTM/vix-term-structure-plasmoid)** — KDE plasmoid widget showing the current VIX cash term structure right on your desktop. *(QML · Python)*
+- **[spx-gamma-plasmoid](https://github.com/chrisOTM/spx-gamma-plasmoid)** — KDE Plasma 6 plasmoid showing SPX dealer gamma exposure, gamma flip level & spot price (CBOE delayed quotes). *(QML · Python)*
 
 ### 🤖 AI & Productivity
-- **[claude-usage-plasmoid](https://github.com/chrisOTM/claude-usage-plasmoid)** — KDE Plasma 6 panel widget showing Claude Code session & weekly usage limits at a glance, with a reset countdown. *(QML)*
+- **[claude-usage-plasmoid](https://github.com/chrisOTM/claude-usage-plasmoid)** — KDE Plasma 6 panel widget showing Claude Code session & weekly usage limits at a glance, with a reset countdown. *(QML · Python)*
 - **[obsidian-wallabag-2026](https://github.com/chrisOTM/obsidian-wallabag-2026)** — Fork of the Obsidian-Wallabag plugin to sync Wallabag items into Obsidian notes. *(TypeScript · fork)*
 
 ### 🐧 Linux Desktop
 - **[benq-monitor-control](https://github.com/chrisOTM/benq-monitor-control)** — Wayland tray app for the BenQ MA320U on Linux: picture modes, brightness, Low Blue Light and FloW scenarios over DDC/CI. *(Python · PySide6/QML)*
+- **[gnome-benq-monitor-control](https://github.com/chrisOTM/gnome-benq-monitor-control)** — GNOME Shell port of benq-monitor-control: top-bar menu for picture mode, brightness, volume, input, Low Blue Light and FloW scenarios with sunrise/sunset scheduling; the Fn brightness keys steer the monitor too. *(JavaScript · GNOME 50)*
 - **[gnome-charge-limit](https://github.com/chrisOTM/gnome-charge-limit)** — GNOME Shell Quick Settings toggle for battery charge thresholds (60–95 %), with a pkexec helper; a workaround for GNOME Settings hiding the option on the ThinkPad X9-14 Gen 1. *(JavaScript · GNOME 48–50)*
 - **[gnome-power-profile-auto](https://github.com/chrisOTM/gnome-power-profile-auto)** — GNOME Shell extension that sets the power mode per power source (one profile on AC, one on battery), applied only on plug/unplug so manual Quick Settings choices stick. *(JavaScript · GNOME 50)*
 - **[thinkpad-x9-ipu7-camera-fix](https://github.com/chrisOTM/thinkpad-x9-ipu7-camera-fix)** — Fix for the ThinkPad X9-14 Gen 1 webcam (Intel IPU7, Sony IMX471) on Ubuntu 26.04 with kernel 7.0. *(C)*
