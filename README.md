@@ -39,9 +39,6 @@
 - **[gnome-power-profile-auto](https://github.com/chrisOTM/gnome-power-profile-auto)** — GNOME Shell extension that sets the power mode per power source (one profile on AC, one on battery), applied only on plug/unplug so manual Quick Settings choices stick. *(JavaScript · GNOME 50)*
 - **[thinkpad-x9-ipu7-camera-fix](https://github.com/chrisOTM/thinkpad-x9-ipu7-camera-fix)** — Fix for the ThinkPad X9-14 Gen 1 webcam (Intel IPU7, Sony IMX471) on Ubuntu 26.04 with kernel 7.0. *(C)*
 
-### 📚 Curated Lists
-- **[best-of-github](https://github.com/chrisOTM/best-of-github)** — A curated list of the best repositories on GitHub — hand-picked, opinionated, personally tested.
-
 ### 🏋️ Health & Fitness
 - **[barbell-tracker-android](https://github.com/chrisOTM/barbell-tracker-android)** — Native Android app for structured barbell strength training: build plans, run guided workouts set-by-set with a rest timer, log sets & auto-suggest the next weight. Fully offline, EN/DE, Material 3. *(Kotlin)*
 
