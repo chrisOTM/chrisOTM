@@ -28,3 +28,9 @@ Match each featured entry to a live repo, add notable new ones, and keep the
 tech-badge row (Python / TypeScript / QML / Kotlin / …) consistent with the
 languages actually represented. Repos with empty descriptions need a
 description written before they're worth featuring.
+
+Standing rule (from the user's global instructions): whenever a repo becomes
+public or private, is archived, renamed or deleted, reconcile this list right
+away. Feature every repo that is public and not archived, mark forks, keep
+entries alphabetical within their category, then commit and push to `main`
+without asking and confirm the change landed on GitHub.
