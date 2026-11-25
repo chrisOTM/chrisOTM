@@ -37,6 +37,7 @@
 - **[gnome-benq-monitor-control](https://github.com/chrisOTM/gnome-benq-monitor-control)** — GNOME Shell port of benq-monitor-control: top-bar menu for picture mode, brightness, volume, input, Low Blue Light and FloW scenarios with sunrise/sunset scheduling; the Fn brightness keys steer the monitor too. *(JavaScript · GNOME 50)*
 - **[gnome-charge-limit](https://github.com/chrisOTM/gnome-charge-limit)** — GNOME Shell Quick Settings toggle for battery charge thresholds (60–95 %), with a pkexec helper; a workaround for GNOME Settings hiding the option on the ThinkPad X9-14 Gen 1. *(JavaScript · GNOME 48–50)*
 - **[gnome-power-profile-auto](https://github.com/chrisOTM/gnome-power-profile-auto)** — GNOME Shell extension that sets the power mode per power source (one profile on AC, one on battery), applied only on plug/unplug so manual Quick Settings choices stick. *(JavaScript · GNOME 50)*
+- **[insta360-link-linux](https://github.com/chrisOTM/insta360-link-linux)** — Unofficial Linux control app for Insta360 Link webcams: AI tracking, auto framing, whiteboard, overhead & DeskView modes, gestures, HDR and image settings via the cameras' UVC extension units, reverse-engineered from the official Windows/macOS app. English/German UI. *(Python · GTK4/libadwaita)*
 - **[thinkpad-x9-ipu7-camera-fix](https://github.com/chrisOTM/thinkpad-x9-ipu7-camera-fix)** — Fix for the ThinkPad X9-14 Gen 1 webcam (Intel IPU7, Sony IMX471) on Ubuntu 26.04 with kernel 7.0. *(C)*
 
 ### 🏋️ Health & Fitness
